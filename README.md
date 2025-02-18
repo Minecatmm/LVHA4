@@ -1,5 +1,5 @@
 <article>
-             <h4> Ý NGHĨA NGÀY 8/3</h4>
-          <img src="https://hoanglinhbiotech.com.vn/image/ngc3a0y20quoc20te20phu20nu2083-652j.jpg" alt="Ý NGHĨA">
-         <p> Ngày kỷ niệm, tôn vinh những người phụ nữ trên toàn thế giới mà còn mang ý nghĩa thể hiện sự bình đẳng của cả nam và nữ. Thông qua ngày lễ kỷ niệm của phụ nữ, xã hội đã ngày một cởi mở hơn, công nhận cũng như thay đổi nhiều chính sách thể hiện sự bình đẳng của cả hai giới nam và nữ.</p>
+     <h6> VIDEO NGẮN Ý NGHĨA VỀ MẸ  </h6>
+    <iframe iframe width="560" height="315" src="https://www.youtube.com/embed/dqKs4NN_HCE?si=Lzp8rc2Y1x1qtVpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"  allowfullscreen frameborder="0" allowfullscreen></iframe>\
+      
       
